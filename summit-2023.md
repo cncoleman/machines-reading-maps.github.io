@@ -1,5 +1,9 @@
 ---
 layout: page
+theme: jekyll-theme-midnight
+title: Machines Reading Maps Summit 2023
+permalink: /summit-2023
+
 ---
 
 ![](assets/images/mrm2023.jpg)
